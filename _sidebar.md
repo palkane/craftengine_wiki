@@ -18,7 +18,7 @@
         * [🔢 物品数据](item/itemdata.md)
             * [🔢 客户端绑定物品数据](item/boundata.md)
         * [⚙️ 物品设置](item/itemsetting.md)
-        * [🕹️ 物品行为](item/behaviors.md)
+        * 🕹️ 物品行为
             * [🪑 家具物品](item/furniture.md)
             * [🧱 方块物品](item/block.md)
                 * [🌊 液体碰撞方块物品](item/water.md)
